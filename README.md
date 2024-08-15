@@ -1,0 +1,3 @@
+- This is a sample file for my first project in CS3.
+- Please clone this repository to your repo.
+- https://github.com/RalphAbonado/ComputerScience3
